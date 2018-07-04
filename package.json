@@ -1,0 +1,13 @@
+{
+  "name": "changelog-converter",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node starter.js"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "commonmark": "^0.28.1"
+  }
+}
